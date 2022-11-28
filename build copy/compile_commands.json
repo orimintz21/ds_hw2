@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/Employee.cpp.o -c /home/orimintz21/ds/wet2mivne/Employee.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/Employee.cpp"
+},
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/Company.cpp.o -c /home/orimintz21/ds/wet2mivne/Company.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/Company.cpp"
+},
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/Data.cpp.o -c /home/orimintz21/ds/wet2mivne/Data.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/Data.cpp"
+},
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/employeeTree.cpp.o -c /home/orimintz21/ds/wet2mivne/employeeTree.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/employeeTree.cpp"
+},
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/library2.cpp.o -c /home/orimintz21/ds/wet2mivne/library2.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/library2.cpp"
+},
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/UnionFind.cpp.o -c /home/orimintz21/ds/wet2mivne/UnionFind.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/UnionFind.cpp"
+},
+{
+  "directory": "/home/orimintz21/ds/wet2mivne/build",
+  "command": "/usr/bin/c++    -DNDEBUG -g -std=gnu++11 -o CMakeFiles/my_executable.dir/main2_without_bonus.cpp.o -c /home/orimintz21/ds/wet2mivne/main2_without_bonus.cpp",
+  "file": "/home/orimintz21/ds/wet2mivne/main2_without_bonus.cpp"
+}
+]

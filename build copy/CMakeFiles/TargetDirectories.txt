@@ -1,0 +1,3 @@
+/home/orimintz21/ds/wet2mivne/build/CMakeFiles/my_executable.dir
+/home/orimintz21/ds/wet2mivne/build/CMakeFiles/edit_cache.dir
+/home/orimintz21/ds/wet2mivne/build/CMakeFiles/rebuild_cache.dir

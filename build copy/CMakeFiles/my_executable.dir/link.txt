@@ -1,0 +1,1 @@
+/usr/bin/c++  -DNDEBUG -g CMakeFiles/my_executable.dir/Employee.cpp.o CMakeFiles/my_executable.dir/Company.cpp.o CMakeFiles/my_executable.dir/Data.cpp.o CMakeFiles/my_executable.dir/employeeTree.cpp.o CMakeFiles/my_executable.dir/library2.cpp.o CMakeFiles/my_executable.dir/UnionFind.cpp.o CMakeFiles/my_executable.dir/main2_without_bonus.cpp.o -o my_executable 
